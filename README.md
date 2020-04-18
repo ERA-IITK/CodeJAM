@@ -14,3 +14,6 @@ Repository for CodeJAM competitions, 2020-21
 - The final Repo should include all your results, code snippets and necessary information of thetask.
 - You need to use python for doing this Code jam task.
 - Make sure no real mails are sent out by you while doing this question
+
+### Corona Special
+#### Mera naam Mukesh hai, Mai lockdown ke time sutta lene campus kebahar gaya tha...
