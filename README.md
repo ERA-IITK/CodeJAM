@@ -5,7 +5,7 @@ Repository for CodeJAM competitions, 2020-21
 - Old problem statments and the best solutions are available on this Repo    
 
 
-![CodeJAM](https://github.com/ERA-IITK/CodeJAM/blob/master/codeJAM.png | width=100%)
+![CodeJAM](https://github.com/ERA-IITK/CodeJAM/blob/master/codeJAM.png | width=1080)
 
 ---
 ## CodeJam_01
