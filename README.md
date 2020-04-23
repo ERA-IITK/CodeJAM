@@ -3,7 +3,9 @@ Repository for CodeJAM competitions, 2020-21
 - CodeJAM problems are released on Slack at 11.59 AM, and are active for 1 day only. 
 - You will be informed 1 day before the release of the problem statement. 
 - Old problem statments and the best solutions are available on this Repo    
-# ![CodeJAM](https://github.com/ERA-IITK/CodeJAM/blob/master/codeJAM.png | width=100%)
+
+
+![CodeJAM](https://github.com/ERA-IITK/CodeJAM/blob/master/codeJAM.png | width=100%)
 
 ---
 ## CodeJam_01
